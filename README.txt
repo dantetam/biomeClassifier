@@ -1,0 +1,2 @@
+This is for a serious refresher on deeply understanding how high-level TensorFlow works, as well as experiments into
+delving deeper into low-level code such as the C++ back-end, including CUDA and CuDNN code.
